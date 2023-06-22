@@ -1,6 +1,6 @@
 # RabbitMQ payment process
 
-������������� ��������� ���������� �������� ������� � ������� RabbitMQ
+Modeling the behavior of the payment process using RabbitMQ
 
 ## How to run?
 
